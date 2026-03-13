@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.Extensions.System.Threading.Tasks", "MediatR.Extensions.System.Threading.Tasks\MediatR.Extensions.System.Threading.Tasks.csproj", "{E035A628-CA36-4D93-903B-54DD34C9E02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatR.Extensions.System.Threading.Tasks.Tests", "MediatR.Extensions.System.Threading.Tasks.Tests\MediatR.Extensions.System.Threading.Tasks.Tests.csproj", "{3159ECCD-6DBC-4BA8-86DB-9898BD554234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E035A628-CA36-4D93-903B-54DD34C9E02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035A628-CA36-4D93-903B-54DD34C9E02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035A628-CA36-4D93-903B-54DD34C9E02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035A628-CA36-4D93-903B-54DD34C9E02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3159ECCD-6DBC-4BA8-86DB-9898BD554234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3159ECCD-6DBC-4BA8-86DB-9898BD554234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3159ECCD-6DBC-4BA8-86DB-9898BD554234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3159ECCD-6DBC-4BA8-86DB-9898BD554234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AAB2408-A700-4210-A50B-57CF0060D9DA}
+	EndGlobalSection
+EndGlobal
